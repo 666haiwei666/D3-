@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    padding: 40px;    
+}
+path{
+    fill:none;
+    stroke: burlywood;
+    stroke-width: 2px;
+}
+.domain,.tick line{
+    stroke: burlywood;
+    stroke-width: 2px;
+}
